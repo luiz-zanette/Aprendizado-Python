@@ -1,0 +1,6 @@
+#Lê a largura e altura de uma parede em metros, calcula a área e exibe quanto de tinta é necessário para pintar (1L = 2mˆ2)
+print('Vou dizer quantos litros de tinta você vai precisar para pintar uma parede')
+larg = float(input('Digite a largura da parede:'))
+alt = float(input('Digite a altura da parede:'))
+print('A área total desta parede é: {}' .format(larg*alt))
+print('Para pintar esta parede (1L tinta = 2m2), vai ser preciso de: {}L de tinta' .format((larg*alt)/2))
