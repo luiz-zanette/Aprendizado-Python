@@ -1,1 +1,1 @@
-Projetos feiton em Python durante aulas de aprendizado Curso em Vídeo
+Diversos mini projetos realizados em Python durante aulas da graduação para absrover entendimento de python
